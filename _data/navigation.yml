@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "Publications"
+    url: /publications/      
+  
+  - title: "Conference Talks"
+    url: /talks/
+
+  - title: "ML-CASCADE"
+    url: /ml-cascade/
