@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 The ML-CASCADE application is a Machine Learning based landslide annotation app based on Google Earth Engine developed at HydroSense Lab at IIT-Delhi. ML-CASCADE provides an easy and fast way to annotate landslides using sentinel 2 data in Google Earth Engine. 
-ML-CASCADE is published in Landslides journal and for in depth workings user may refer to the [research paper](https://link.springer.com/journal/10346)
+ML-CASCADE is published in Landslides journal and for in depth workings user may refer to the [research paper](https://link.springer.com/article/10.1007/s10346-024-02360-3)
 
 <div align="center">
   <figure>
@@ -36,7 +36,7 @@ On visiting the ML-CASCADE homepage, you will see an interface as shown below.
 
 The homepage will zoom into India and contain three panels. One control panel and two map panels. The control panel contains buttons and widgets for the user to interact with the app as well as maps. The map panels contain titles of Before Image and After Image. These are linked maps and a process done on one map is automatically shown on the second map (e.g. Zooming on one maps automatically zooms in the other map).    
 
-The first line includes the link to this user manual and a [video](www.youtube.com) showcasing how to use ML-CASCADE. The usage of ML-CASCADE requires 6 steps which should be done sequentially. In case the user misses a step, it is requested that the user restart the app since the ML-CASCADE runs sequentially. Missing a step and going back will lead to unwanted behavior of the app.  
+The first line includes the link to this user manual and a [video](https://www.youtube.com/) showcasing how to use ML-CASCADE. The usage of ML-CASCADE requires 6 steps which should be done sequentially. In case the user misses a step, it is requested to restart the app since the ML-CASCADE runs sequentially, and Missing a step and going back will lead to unwanted behavior of the app.  
 
 
 
