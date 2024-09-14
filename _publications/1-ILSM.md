@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/ILSM
 date: 2023-12-01
 ---
-<b>This paper is Published in Catena, read the paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) </b>
+<b>This paper is Published in Catena  
+The original paper is [here](https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) and the
+open access version can be read [here](https://eartharxiv.org/repository/view/6283/) </b>
 
 
 
