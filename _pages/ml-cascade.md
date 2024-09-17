@@ -38,7 +38,7 @@ The homepage will zoom into India and contain three panels. One control panel an
 
 The first line includes the link to this user manual and a [video](https://www.youtube.com/) showcasing how to use ML-CASCADE. If a step is missed, the app must be restarted, as ML-CASCADE operates in a strictly sequential manner. Skipping a step or attempting to go back may result in unexpected app behavior.
 
-STEP 1: Location and Datev v v 
+STEP 1: Location and Date
 ======
 The user is required to enter the approximate location of the area of interest and the date of landslide.This information can be acquired from various sources like news, social media or twitter. The algorithm in the backend will search for all images that cover the area of interest and where the cloud fraction in the image is less than 30%. 
 
