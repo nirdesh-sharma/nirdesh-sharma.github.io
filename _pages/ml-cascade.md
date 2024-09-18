@@ -36,7 +36,7 @@ On visiting the ML-CASCADE homepage, you will see an interface as shown below.
 
 The homepage will zoom into India and contain three panels. One control panel and two map panels. The control panel contains buttons and widgets for the user to interact with the app as well as maps. The map panels contain titles of Before Image and After Image. These are linked maps and a process done on one map is automatically shown on the second map (e.g. Zooming on one maps automatically zooms in the other map).    
 
-The first line includes the link to this user manual and a [video](https://www.youtube.com/) showcasing how to use ML-CASCADE. If a step is missed, the app must be restarted, as ML-CASCADE operates in a strictly sequential manner. Skipping a step or attempting to go back may result in unexpected app behavior.
+The first line includes the link to this user manual and a [video](https://www.youtube.com/watch?v=nfUGjZhq0IM) showcasing how to use ML-CASCADE. If a step is missed, the app must be restarted, as ML-CASCADE operates in a strictly sequential manner. Skipping a step or attempting to go back may result in unexpected app behavior.
 
 STEP 1: Location and Date
 ======
